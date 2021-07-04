@@ -1,0 +1,6 @@
+site_name: OI Blog
+nav:
+    - 主页: index.md
+    - 关于: about.md
+theme:
+    name: material
